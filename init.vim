@@ -1,6 +1,6 @@
 source $HOME/.config/nvim/config/plugs.vim
-source $HOME/.config/nvim/config/general.vim
 source $HOME/.config/nvim/config/keys.vim
+source $HOME/.config/nvim/config/general.vim
 source $HOME/.config/nvim/config/theme.vim
 source $HOME/.config/nvim/config/go.vim
 source $HOME/.config/nvim/config/syntax.vim
