@@ -9,9 +9,8 @@ call plug#begin('~/.config/nvim/plugged')
 
 Plug 'majutsushi/tagbar'
 Plug 'Shougo/deoplete.nvim', { 'do': function('DoRemote') }
-Plug 'Shougo/neosnippet'
-Plug 'Shougo/neosnippet-snippets'
 Plug 'zchee/deoplete-go', { 'do': 'make' }
+Plug 'Shougo/neosnippet'
 Plug 'fatih/vim-go'
 Plug 'scrooloose/syntastic'
 Plug 'vim-airline/vim-airline'
@@ -21,8 +20,6 @@ Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-vinegar'
 Plug 'airblade/vim-gitgutter'
 Plug 'gevans/vim-ginkgo'
-Plug 'trayo/vim-ginkgo-snippets'
-Plug 'trayo/vim-gomega-snippets'
 
 call plug#end()
 
