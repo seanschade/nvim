@@ -13,3 +13,5 @@ Note: You will have to manually copy the onedark vim-airline-theme and rename it
 cp $HOME/.config/nvim/colors/airline-one.vim $HOME/.config/nvim/plugged/vim-airline-themes/autoload/airline/themes/one.vim
 ```
 
+## Screenshot
+![Screenshot](/Screen%20Shot%202016-08-13%20at%2010.58.41%20PM.png?raw=true "Screenshot")
