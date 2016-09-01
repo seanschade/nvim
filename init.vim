@@ -10,4 +10,3 @@ source $HOME/.config/nvim/config/fugitive.vim
 source $HOME/.config/nvim/config/status.vim
 source $HOME/.config/nvim/config/gutter.vim
 source $HOME/.config/nvim/config/tags.vim
-

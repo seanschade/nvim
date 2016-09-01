@@ -43,6 +43,7 @@ augroup go
 
   autocmd FileType go nmap <Leader>d <Plug>(go-doc)
   autocmd FileType go nmap <Leader>c <Plug>(go-coverage-toggle)
+  autocmd FileType go nmap <Leader>e <Plug>(go-rename)
 
   " I like these more!
   autocmd Filetype go command! -bang A call go#alternate#Switch(<bang>0, 'edit')

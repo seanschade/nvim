@@ -20,6 +20,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'tpope/vim-vinegar'
 Plug 'airblade/vim-gitgutter'
 Plug 'gevans/vim-ginkgo'
-
+Plug 'vim-scripts/dbext.vim'
+Plug 'krisajenkins/vim-pipe'
 call plug#end()
 
