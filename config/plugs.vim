@@ -8,6 +8,7 @@ endfunction
 call plug#begin('~/.config/nvim/plugged')
 
 Plug 'trevordmiller/nova-vim'
+Plug 'pangloss/vim-javascript' 
 Plug 'majutsushi/tagbar'
 Plug 'Shougo/deoplete.nvim', { 'do': function('DoRemote') }
 Plug 'zchee/deoplete-go', { 'do': 'make' }
