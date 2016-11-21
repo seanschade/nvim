@@ -1,5 +1,5 @@
 set termguicolors
 set background=dark
-colorscheme one
-let g:airline_theme = 'one'
+colorscheme nova
+let g:airline_theme = 'nova'
 let g:airline_powerline_fonts = 1
