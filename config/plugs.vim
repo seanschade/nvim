@@ -22,5 +22,6 @@ Plug 'airblade/vim-gitgutter'
 Plug 'gevans/vim-ginkgo'
 Plug 'vim-scripts/dbext.vim'
 Plug 'krisajenkins/vim-pipe'
+Plug 'christoomey/vim-tmux-navigator'
 call plug#end()
 

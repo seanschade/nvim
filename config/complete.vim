@@ -57,7 +57,7 @@ imap <expr><TAB> neosnippet#expandable_or_jumpable() ?
 smap <expr><TAB> neosnippet#expandable_or_jumpable() ?
     	\ "\<Plug>(neosnippet_expand_or_jump)" : "\<TAB>"
 inoremap <expr><C-h>
-      	\ deolete#mappings#smart_close_popup()."\<C-h>"
+      	\ deoplete#mappings#smart_close_popup()."\<C-h>"
 inoremap <expr><BS>
       	\ deoplete#mappings#smart_close_popup()."\<C-h>"
 inoremap <expr> <CR> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
